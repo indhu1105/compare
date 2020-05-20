@@ -17,4 +17,3 @@ function compare(num1, num2) {
     return "equal";
     }
 }
-compare(num1, num2);
